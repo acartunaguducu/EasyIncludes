@@ -37,5 +37,8 @@ void easyImport() {
 int main() {
    
     easyImport();
+
+    char a;
+    cin>>a;
     
 }
